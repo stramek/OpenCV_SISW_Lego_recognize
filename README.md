@@ -24,3 +24,7 @@ Wyróżniamy 6 typów kolorów:
 - mieszany (maksymalnie dwa różne kolory, różny stosunek kolorów)
 
 Na obrazie mogą pojawić się zakłócenia - obiekty, których kształt jest inny, niż kształty, które widać na obrazie. Kształty te traktujemy jako zakłócenia i ich nie zliczamy.
+
+### Przykład działania
+
+![preview](https://github.com/stramek/OpenCV_SISW_Lego_recognize/blob/master/preview_images/1.png?raw=true)
