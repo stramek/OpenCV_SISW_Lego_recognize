@@ -11,9 +11,9 @@ Celem projektu jest policzenie widocznych na obrazie obiektów o różnych kszta
 Występuje 5 różnych kształtów obiektów:
 - I
 - T
-- L
+- JL
 - O
-- S
+- SZ
 
 Wyróżniamy 6 typów kolorów:
 - czerwony
