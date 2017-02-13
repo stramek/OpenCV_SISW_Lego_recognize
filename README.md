@@ -8,7 +8,7 @@ Projekt utworzony na potrzeby przedmiotu "Sensoryka i Systemy Wizyjne". Uzyskał
 
 Celem projektu jest policzenie widocznych na obrazie obiektów o różnych kształtach i kolorach. Zakładamy, że kąt między osią optyczną kamery a płaszczyzną znacznika (kąt wzniesienia kamery) jest nie większy od 20 stopni (zdjęcia robione z góry).
 
-Występuje 5 różnych kształtów obiektów:
+Występuje 5 różnych kształtów obiektów (kształt klocków z tetrisa):
 - I
 - T
 - JL
